@@ -18,7 +18,7 @@ func _ready():
 	set_as_toplevel(true)
 	update_position()
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	update_position()
 
 func update_position():
