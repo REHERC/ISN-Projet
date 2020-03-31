@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/node_graph.png-0cd9aab4545832875596d94f3b2e6312.stex"
+path="res://.import/dungeon.png-bf2dc14a15e2cad176456c2748ff9213.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://textures/sets/node_graph.png"
-dest_files=[ "res://.import/node_graph.png-0cd9aab4545832875596d94f3b2e6312.stex" ]
+source_file="res://textures/sets/dungeon.png"
+dest_files=[ "res://.import/dungeon.png-bf2dc14a15e2cad176456c2748ff9213.stex" ]
 
 [params]
 
@@ -20,11 +20,11 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
-process/fix_alpha_border=false
+process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false

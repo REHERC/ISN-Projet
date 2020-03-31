@@ -20,10 +20,10 @@ shape = SubResource( 1 )
 script = ExtResource( 3 )
 
 [node name="Camera2D" type="Camera2D" parent="CameraGridSnapper"]
+position = Vector2( 1, 0 )
 current = true
 process_mode = 0
 limit_smoothed = true
 smoothing_enabled = true
-smoothing_speed = 8.0
 editor_draw_limits = true
 editor_draw_drag_margin = true
