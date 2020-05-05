@@ -25,5 +25,6 @@ current = true
 process_mode = 0
 limit_smoothed = true
 smoothing_enabled = true
+offset_h = -0.04
 editor_draw_limits = true
 editor_draw_drag_margin = true

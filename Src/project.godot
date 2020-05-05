@@ -17,6 +17,7 @@ _global_script_class_icons={
 
 config/name="Game"
 run/main_scene="res://scenes/test_scene.tscn"
+boot_splash/bg_color=Color( 0.133333, 0.12549, 0.203922, 1 )
 config/icon="res://icon.png"
 
 [display]
